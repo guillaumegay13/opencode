@@ -1,0 +1,25 @@
+packages/opencode/test/session/llm.test.ts
+  s_f13175a263fab0::t_38543bc1b2abb1 507-602
+packages/llm/src/schema/events.ts
+  s_f13175a263fab0::t_ff0db4fb86503f 59-67
+packages/opencode/src/session/llm/ai-sdk.ts
+  s_f13175a263fab0::t_ddc2a5010e66ea 45-54,65,74
+packages/opencode/src/session/session.ts
+  s_f13175a263fab0::t_eaad83139be52c 387,391-395
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "09907b076e760e8b516a52b49be388461c6aeb8a",
+  "prompts": {},
+  "sessions": {
+    "s_f13175a263fab0": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fdcd30f49ffe3w653aEaHfM9Om",
+        "model": "auto"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
